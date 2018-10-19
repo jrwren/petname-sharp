@@ -3,6 +3,19 @@
   <PropertyGroup>
     <OutputType>Library</OutputType>
     <TargetFramework>netcoreapp2.1</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>jrwren</Authors>
+    <PackageId>Pet.Names</PackageId>
+    <Product>PetNames</Product>
+    <Description>A list of nouns, adjectives, and adverbs which combine to make names.</Description>
+    <Copyright>Copyright ©2017</Copyright>
+    <PackageLicenseUrl>https://github.com/jrwren/petname-sharp/blob/master/Petnames/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/jrwren/petname-sharp</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/jrwren/petname-sharp</RepositoryUrl>
+    <PackageTags>pet names, pets, c-sharp, net-standard</PackageTags>
+    <Version>1.0.1</Version>
+    <PackageReleaseNotes>Code cleanup</PackageReleaseNotes>
+    <NeutralLanguage></NeutralLanguage>
   </PropertyGroup>
 
 </Project>
